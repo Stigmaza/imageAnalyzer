@@ -1,0 +1,595 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|d:\\fouronesvn\\stigmasvn\\imageanalyzer\\main\\imageanalyzer\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitembitwise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitembitwise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemchanneljoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemchanneljoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemchannelsplit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemchannelsplit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitembilateralfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitembilateralfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemerode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemerode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocesszitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocesszitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsdatapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsdatapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemequalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemequalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemclahe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemclahe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessnomalize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessnomalize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemcontours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemcontours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemsobel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemsobel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\formpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\formpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\formpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\formpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemlaplacian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemlaplacian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemscharr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemscharr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemimageoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemimageoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemcanny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemcanny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemroi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemroi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitembinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitembinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemcolorchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemcolorchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemboxfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemboxfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemresize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemresize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemsaveimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemsaveimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitempreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitempreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemmedianblur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemmedianblur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemloadimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemloadimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemgaussianblur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemgaussianblur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemdilate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemdilate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsprocessitemcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsprocessitemcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageanalyzer\\clsdataout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFD1E77-0D78-4686-8246-D329F1B419B8}|imageAnalyzer\\imageAnalyzer.csproj|solutionrelative:imageanalyzer\\clsdataout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsDataPoint.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsDataPoint.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsDataPoint.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsDataPoint.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsDataPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:09:53.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsProcessItemErode.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemErode.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemErode.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemErode.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemErode.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:17:06.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsProcessItemBilateralFilter.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBilateralFilter.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemBilateralFilter.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBilateralFilter.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemBilateralFilter.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAWwEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:42:02.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsProcessItemChannelSplit.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemChannelSplit.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemChannelSplit.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemChannelSplit.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemChannelSplit.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:34:53.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsProcessItemChannelJoin.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemChannelJoin.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemChannelJoin.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemChannelJoin.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemChannelJoin.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:43:44.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsProcessItemBitwise.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBitwise.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemBitwise.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBitwise.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemBitwise.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwJcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:22:40.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsProcessZItem.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessZItem.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessZItem.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessZItem.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessZItem.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAowPUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:09:35.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsProcessManager.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessManager.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessManager.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessManager.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessManager.cs",
+              "ViewState": "AgIAAGACAAAAAAAAAAAmwHYCAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:39:27.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsProcessItemClahe.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemClahe.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemClahe.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemClahe.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemClahe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:14:21.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\FormMain.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\FormMain.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\FormMain.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "imageAnalyzer\\FormMain.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:03:00.693Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\FormMain.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\FormMain.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\FormMain.cs",
+              "RelativeToolTip": "imageAnalyzer\\FormMain.cs",
+              "ViewState": "AgIAAK4BAAAAAAAAAAAmwM8BAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:06:06.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsProcessItemBinary.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBinary.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemBinary.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBinary.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemBinary.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:21:02.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsProcessItemCanny.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemCanny.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemCanny.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemCanny.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemCanny.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:54:03.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsProcessItemScharr.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemScharr.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemScharr.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemScharr.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemScharr.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:29:04.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsProcessItemEqualizer.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemEqualizer.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemEqualizer.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemEqualizer.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemEqualizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:05:58.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsProcessItemSobel.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemSobel.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemSobel.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemSobel.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemSobel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:32:01.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsProcessItemLaplacian.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemLaplacian.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemLaplacian.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemLaplacian.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemLaplacian.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:30:42.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsProcessItemContours.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemContours.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemContours.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemContours.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemContours.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwEMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:54:29.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsProcessNomalize.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessNomalize.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessNomalize.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessNomalize.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessNomalize.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:24:41.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormPreview.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\FormPreview.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\FormPreview.cs",
+              "ToolTip": "D:\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\FormPreview.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\FormPreview.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:09:12.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormPreview.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\FormPreview.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\FormPreview.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\FormPreview.cs",
+              "RelativeToolTip": "imageAnalyzer\\FormPreview.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAewKsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:09:13.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsProcessItemBlank.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBlank.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemBlank.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBlank.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemBlank.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:53:51.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsProcessItemImageOperation.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemImageOperation.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemImageOperation.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemImageOperation.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemImageOperation.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:54:22.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "clsProcessItemGaussianBlur.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemGaussianBlur.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemGaussianBlur.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemGaussianBlur.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemGaussianBlur.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwFQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:30:11.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsProcessItemColorChange.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemColorChange.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemColorChange.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemColorChange.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemColorChange.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowDwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:33:30.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsProcessItemBoxFilter.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBoxFilter.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemBoxFilter.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemBoxFilter.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemBoxFilter.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAUwF4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:07:46.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsProcessItemResize.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemResize.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemResize.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemResize.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemResize.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:00:38.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsProcessItemRoi.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemRoi.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemRoi.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemRoi.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemRoi.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowJoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:00:41.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "clsProcessItemDilate.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemDilate.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemDilate.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemDilate.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemDilate.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv24AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:15:04.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsProcessItemMedianBlur.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemMedianBlur.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemMedianBlur.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemMedianBlur.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemMedianBlur.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA6wFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:22:39.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsProcessItemRange.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemRange.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemRange.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemRange.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemRange.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:24:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsProcessItemSaveImg.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemSaveImg.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemSaveImg.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemSaveImg.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemSaveImg.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:26:12.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsProcessItemPreview.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemPreview.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemPreview.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemPreview.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemPreview.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:31:50.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsProcessItemCam.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemCam.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemCam.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemCam.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemCam.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:10:19.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsProcessItemLoadImg.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemLoadImg.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsProcessItemLoadImg.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsProcessItemLoadImg.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsProcessItemLoadImg.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:31:12.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "clsDataOut.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsDataOut.cs",
+              "RelativeDocumentMoniker": "imageAnalyzer\\clsDataOut.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\imageAnalyzer\\main\\imageAnalyzer\\clsDataOut.cs",
+              "RelativeToolTip": "imageAnalyzer\\clsDataOut.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:22:59.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
